@@ -1,2 +1,2 @@
 # Quiz
-Survey on the products to get feedback
+Quiz on the products line to get feedback.
